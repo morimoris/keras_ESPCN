@@ -12,10 +12,10 @@ if __name__ == "__main__":
     def psnr(y_true, y_pred):
         return tf.image.psnr(y_true, y_pred, 1, name=None)
 
-    train_height = 51
-    train_width = 51
-    test_height = 600
-    test_width = 600
+    train_height = 17
+    train_width = 17
+    test_height = 200
+    test_width = 200
 
     mag = 3.0
     cut_traindata_num = 10
