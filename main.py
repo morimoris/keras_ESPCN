@@ -21,8 +21,8 @@ if __name__ == "__main__":
     cut_traindata_num = 10
     cut_testdata_num = 1
 
-    train_file_path = "../photo_data/DIV2K_train_HR" #写真が入ったフォルダ
-    test_file_path = "../photo_data/DIV2K_valid_HR" #写真が入ったフォルダ
+    train_file_path = "./train_data" #写真が入ったフォルダ
+    test_file_path = "./test_data" #写真が入ったフォルダ
 
     BATSH_SIZE = 256
     EPOCHS = 1000
