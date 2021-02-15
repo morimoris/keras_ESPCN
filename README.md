@@ -26,6 +26,6 @@ main.py --mode evaluate
 
 #### Low Image 
 ![Low Image](result_epo_1000/low_0.jpg)
-#### Pred Image PSNR:31.88dB
+#### Pred Image(three enlargements) PSNR:31.88dB
 ![Pred Image](result_epo_1000/pred_0.jpg)
 
