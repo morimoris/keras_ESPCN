@@ -1,4 +1,6 @@
 # keras_espcn
+detailed description(Japanese)
+https://qiita.com/nekono_nekomori/items/08ec250ceb09a0004768
 
 ### Overview
 I created Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network(ESPCN) using python and keras.
