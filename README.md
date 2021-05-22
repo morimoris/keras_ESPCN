@@ -7,9 +7,18 @@ https://qiita.com/morimoris/items/08ec250ceb09a0004768
 I created Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network(ESPCN) using python and keras.
 
 ### Experiment environment
-- OS : Windows 10
-- CPU : AMD Ryzen 5 3500 6-Core Processor 8GB
-- GPU : NVIDIA GeForce RTX 2060 SUPER
+
+- PC environment
+  - `CPU` : AMD Ryzen 5 3500 6-Core Processor
+  - `メモリ数` : 40GB
+  - `GPU` : NVIDIA GeForce RTX 2060 SUPER
+  - `OS` : Windows 10
+  
+- Library environment
+  - `python` : 3.7.9
+  - `tensorflow-gpu` : 2.4.1
+  - `keras` : 2.4.3
+  - `opencv-python` : 4.4.0.43
 
 ### How to use
 1. Create new folders which are `./train_data` and `./test_data`
